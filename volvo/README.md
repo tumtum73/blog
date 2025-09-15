@@ -1,4 +1,4 @@
-# Volvoblog
+# Volvo blog
 #### Names:  
 - DevOps Compass
 - Welcome to the DevOps Compass: Your Secret Decoder Ring for the IT Maze
@@ -8,7 +8,7 @@
 - "Let's untangle the jargon. Here's what this new tool really does and how it will simplify your life."
 - "Got a question? Send it my way! There are no silly questions when we're all learning to read the new map" 
 
-#### Frquency
+#### Frequency
 Plan to Post Weekly on Monday
 
 #### Topics
